@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Svg8l7Jyoo4=",
+  "dgSpecHash": "2eZcoE9ey1s=",
   "success": true,
-  "projectFilePath": "F:\\Desktop\\Pharmacy Management System\\PharmacyWinFormsApp\\PharmacyWinFormsApp.csproj",
+  "projectFilePath": "F:\\Desktop\\Pharmacy Management\\PharmacyWinFormsApp\\PharmacyWinFormsApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ibraheem\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Ibraheem\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

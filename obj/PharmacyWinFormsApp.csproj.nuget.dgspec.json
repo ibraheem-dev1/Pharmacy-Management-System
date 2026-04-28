@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Desktop\\Pharmacy Management System\\PharmacyWinFormsApp\\PharmacyWinFormsApp.csproj": {}
+    "F:\\Desktop\\Pharmacy Management\\PharmacyWinFormsApp\\PharmacyWinFormsApp.csproj": {}
   },
   "projects": {
-    "F:\\Desktop\\Pharmacy Management System\\PharmacyWinFormsApp\\PharmacyWinFormsApp.csproj": {
+    "F:\\Desktop\\Pharmacy Management\\PharmacyWinFormsApp\\PharmacyWinFormsApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Desktop\\Pharmacy Management System\\PharmacyWinFormsApp\\PharmacyWinFormsApp.csproj",
+        "projectUniqueName": "F:\\Desktop\\Pharmacy Management\\PharmacyWinFormsApp\\PharmacyWinFormsApp.csproj",
         "projectName": "PharmacyWinFormsApp",
-        "projectPath": "F:\\Desktop\\Pharmacy Management System\\PharmacyWinFormsApp\\PharmacyWinFormsApp.csproj",
+        "projectPath": "F:\\Desktop\\Pharmacy Management\\PharmacyWinFormsApp\\PharmacyWinFormsApp.csproj",
         "packagesPath": "C:\\Users\\Ibraheem\\.nuget\\packages\\",
-        "outputPath": "F:\\Desktop\\Pharmacy Management System\\PharmacyWinFormsApp\\obj\\",
+        "outputPath": "F:\\Desktop\\Pharmacy Management\\PharmacyWinFormsApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ibraheem\\AppData\\Roaming\\NuGet\\NuGet.Config",
